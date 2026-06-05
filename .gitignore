@@ -1,0 +1,23 @@
+# Ignore Word documents (drafts and backups) for confidentiality
+*.docx
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE and temporary folders
+.gemini/
+scratch/
+.idea/
+.vscode/
+
+# OS specific files
+Thumbs.db
+db.db
+Desktop.ini
+.DS_Store
