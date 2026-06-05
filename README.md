@@ -3,6 +3,7 @@
 This repository contains the dataset, model training notebooks, and an interactive clinical screening prototype for the paper:
 **"Early Prediction of Gallstone Disease Using Validated Machine Learning Models on Bioimpedance and Laboratory Data"**
 Submitted to *Clinica Chimica Acta* (Ref No: CCACTA-D-26-00706).
+<img width="1914" height="908" alt="image" src="https://github.com/user-attachments/assets/58b99872-39b6-48e5-b0ce-e63423ce26c1" />
 
 ---
 
