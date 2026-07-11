@@ -45,7 +45,7 @@ We have fully integrated these realistic performance metrics into the Results an
 * **Manuscript Revision:** Section 4 (Discussion, Paragraph 3) now includes this clarification.
 
 #### **Comment 6:** *If possible, the data and codes should be provided online and/or into a public repository.*
-* **Response:** We confirm that all data and Python code for training, validation, plotting, and the web prototype are provided in a public GitHub repository [insert repository link upon acceptance].
+* **Response:** We confirm that all data and Python code for training, validation, plotting, and the web prototype are provided in a public GitHub repository https://github.com/zicohasan/Gallstone-Screening-ML.
 * **Manuscript Revision:** Added a statement in Section 2.5 (Implementation).
 
 #### **Comment 7:** *The manuscript repeatedly acknowledges ultrasonography as the current diagnostic gold standard, but they didn't compare their results with USG.*
